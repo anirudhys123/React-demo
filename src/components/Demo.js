@@ -7,7 +7,7 @@ function Demo() {
   const [bgStyle , setbgStyle] = useState('');
 
   useEffect(()=> {
-    setProductName("Samsung Tv");
+    setProductName("ASUS Laptop");
     setbgStyle("bg-warning");
 
   },[]);
