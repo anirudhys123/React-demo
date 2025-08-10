@@ -1,0 +1,33 @@
+dt{
+      font-weight: bold;
+      background-color: black;
+      color: white;
+      padding: 10px;
+      margin: 10px;
+    }
+    dd{
+      background-color: gray;
+      color: white;
+      padding: 5px;
+      margin: 5px;
+    }
+    dl{
+      display: grid;
+      grid-template-columns: 6fr 6fr;
+    }
+    fieldset{
+      margin-bottom: 50px;
+      box-shadow: 4px 3px 2px gray;
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 100px;
+    }
+    legend{
+      background-color: black;
+      color: white;
+      padding: 10px;
+      border-radius: 15px;
+      font-weight: bold;
+      text-align: center;
+      box-shadow: 5px 4px 3px gray;
+    }
